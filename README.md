@@ -4,6 +4,8 @@
 
 
 ## Change Log:
+### Version: 1.0.1 | Date: 2025-08-11 | By: Nimish Patnaik
+* Modified the streamlit app codes with css elements
 ### Version: 1.0.0 | Date: 2025-08-11 | By: Nimish Patnaik
 * Created the base code for the churn model
 * Added streamlit app codes
